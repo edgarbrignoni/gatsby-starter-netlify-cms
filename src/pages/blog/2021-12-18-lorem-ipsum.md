@@ -8,11 +8,11 @@ description: >
 featuredpost: true
 featuredimage: /img/jumbotron.jpg
 tags:
-  - Tags
+  - jamaica
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac mauris tortor. Sed pellentesque cursus vulputate. Integer mattis, enim ac fringilla commodo, metus quam ultrices lacus, a aliquam justo nunc dapibus eros. Etiam fringilla est sed efficitur dignissim. Aenean non tellus sed justo vestibulum elementum. Donec efficitur, massa quis ultrices dignissim, lorem lacus auctor nibh, vel iaculis sapien augue at lectus. Cras at mauris sit amet nulla elementum cursus. Ut et pellentesque orci. Etiam eu ante leo. Etiam at viverra eros, aliquet malesuada massa. Maecenas malesuada, tellus id pretium fermentum, mi massa viverra risus, ac hendrerit metus lectus pharetra neque. Duis quis quam sollicitudin magna tincidunt venenatis. Pellentesque ut urna eu nibh mollis hendrerit. Nullam eu augue aliquet, tincidunt nulla condimentum, sodales purus. Quisque odio nisi, venenatis eu lacus nec, tempor pharetra erat.
 
-![Alt Text, jamaica](/img/chemex.jpg "Image Title")
+![coffe](/img/chemex.jpg "Image Title")
 
 Proin congue dolor a euismod ultrices. Vestibulum sit amet tempor neque, vel feugiat dui. Quisque a sollicitudin ante. Duis ornare libero malesuada justo accumsan, in commodo eros viverra. Vestibulum maximus aliquet malesuada. Pellentesque convallis elementum erat, quis congue mi luctus vitae. Nam dignissim lobortis egestas. Curabitur lobortis viverra dignissim. In nec urna sapien. Duis consequat vitae tellus sit amet convallis. Suspendisse vestibulum feugiat finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
